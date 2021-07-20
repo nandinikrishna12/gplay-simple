@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gplay-simple</string>
+    <string name="skip">Skip</string>
+    <string name="install">Install</string>
+    <string name="back">Back</string>
+    <string name="uninstall">Uninstall</string>
+</resources>

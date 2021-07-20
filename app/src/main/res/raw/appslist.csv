@@ -1,0 +1,11 @@
+packagename, appname, developer, icon_filename, total_downloads, total_reviews, rating, warning_display, warning_message 
+"com.simulationcurriculum.skysafari5", "SkySafari - Astronomy App", "Simulation Curriculum Corp.", "SkySafari.webp",  1000000, 28869,  4.6, FALSE, ""
+"co.brainly", "Brainly – Home Learning & Homework Help", "Brainly, Inc", "Brainly.webp", 100000000, 1473852, 4.1, "TRUE", "Are you sure you want to install the Brainly by Brainly, Inc?"
+"air.com.eu.inove.sss2", "Solar System Scope", "INOVE, s.r.o.", "Scope.webp", 5000000, 110092, 4.6, "TRUE", "Are you sure you want to install Solar System Scope by INOVE, s.r.o.?"
+"com.joytunes.simplypiano", "Simply Piano by JoyTunes", "JoyTunes", "SimplyPiano.webp", 10000000, 509192, 4.3, "FALSE", "Are you sure you want to install Simply Piano by JoyTunes?"
+"net.chordify.chordify", "Chordify - Guitar, Ukulele and Piano Chords", "Chordify B.V.", "Chordify.webp", 1000000, 19036, 4.3, "FALSE", ""
+"com.duolingo", "Duolingo: Learn Languages Free", "Duolingo", "Duolingo.webp", 100000000, 11243038, 4.6, "FALSE", ""
+"com.canva.editor", "Canva: Graphic Design, Video Collage, Logo Maker", "Canva", "Canva.webp", 100000000, 5423588, 4.7, "TRUE", "Are you sure you want to install Canva: Graphic Design, Video Collage by Canva?"
+"com.lifelapse", "Life Lapse Stop Motion Maker", "Bolandia Creative Inc", "LifeLapse.webp", 500000, 10573, 3.9, "FALSE", ""
+"com.chamberlain.android.liftmaster.myq", "myQ: Smart Garage & Access Control", "The Chamberlain Group, Inc.", "myQ.webp", 1000000, 60814, 4.1, "FALSE", ""
+"com.fitbit.FitbitMobile", "Fitbit", "Fitbit, Inc.", "Fitbit.webp", 50000000, 821709, 3.6, "TRUE", "Are you sure you want to install Fitbit by Fitbit, Inc.?"
